@@ -5,11 +5,7 @@ ___
 
 
 
-<p align="center">
-  <a href="LICENSE">
-    <img alt="License" src="https://user-images.githubusercontent.com/60237326/166171045-742ed1a6-f3ce-4df3-baff-980298e4ec16.png">
-  </a>
-</p>
+
 
 ___
 
@@ -24,7 +20,7 @@ ___
 ___
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54115624/100724645-db7bb180-33a1-11eb-9e09-d886895efa9d.png" max-width="800">
+   <img alt="License" src="https://user-images.githubusercontent.com/60237326/166171045-742ed1a6-f3ce-4df3-baff-980298e4ec16.png">
 </p>
 
 ## :information_source: Sobre
